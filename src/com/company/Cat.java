@@ -3,6 +3,7 @@ package com.company;
 public class Cat extends Animal {
     final int  MaxRunLength=200;
    public static int catCount = 0;
+
     public Cat(String name) {
         this.name = name;
        catCount++;
