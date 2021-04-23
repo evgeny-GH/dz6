@@ -17,5 +17,4 @@ public abstract class Animal {
         System.out.println("Созданное количество животных: "+countCat);
     }
 
-
 }

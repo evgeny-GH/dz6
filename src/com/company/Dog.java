@@ -21,6 +21,7 @@ public class Dog extends Animal {
         else System.out.println(name + " не может столько проплыть");
     }
 
+
     @Override
     void run(int length) {
         if ((length >= 0) && (length <= MaxRunLength))
